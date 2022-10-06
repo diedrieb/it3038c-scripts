@@ -15,3 +15,9 @@ _______________
 
 This script is coded in Python, so it can be run in any IDE such as VS Code or Python IDE. Once inside of an IDE, 
 you csan locate the run function and run the code. The output should then appear in a terminal window. 
+
+Sources
+__________
+
+https://stackoverflow.com/questions/1398674/display-the-time-in-a-different-time-zone
+https://www.programiz.com/python-programming/datetime/current-time
