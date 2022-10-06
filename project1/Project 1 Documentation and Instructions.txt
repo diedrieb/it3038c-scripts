@@ -1,0 +1,17 @@
+What This Script Does
+_______________________
+
+For this project, I developed a python script that will tell us the time across all three United States Time Zones
+(Eastern, Central, Pacific). 
+
+The Ouput 
+___________
+
+The output of this script will be three lines consisting of each time zone's current time in hours, minutes,
+and seconds. This will be clearly visible as the descriptions also will come before the time. 
+
+How To Run It
+_______________
+
+This script is coded in Python, so it can be run in any IDE such as VS Code or Python IDE. Once inside of an IDE, 
+you csan locate the run function and run the code. The output should then appear in a terminal window. 
