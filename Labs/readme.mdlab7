@@ -1,0 +1,8 @@
+The goal of this script is to display rap artist data through the module Pygenius. 
+
+To install this plugin, you must access the terminal and type 'pip install pygenius'. Once this is installed, we can import into a text editor and run the code. 
+
+The link to the information about this module is below....
+
+https://pypi.org/project/pygenius/#description
+
