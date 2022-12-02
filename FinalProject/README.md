@@ -8,7 +8,7 @@ The output of this script will display a line of input options and outcomes to t
 
 How To Run It
 
-This script is coded in Python, so it can be run in any IDE such as VS Code or Python IDE. Once inside of the IDE (recommended VS Code), the user will need to open a terminal and enter the lines "pip install pyqrcode" and "pip install pypng". After this is complete, the user should save the file to an area of their local machine of their choice. Remember this location because this is where the QR code will be generated. Once these are entered and installed, restart VS code. Once back inside of an IDE, you can locate the run function and run the code. The output should then appear in a terminal window. The QR code can be found and opened in the python files saved location. Using your phone's camera, scan the QR code and learn some good password techniques!
+This script is coded in Python, so it can be run in any IDE such as VS Code or Python IDE. Once inside of the IDE (recommended VS Code), the user will need to open a terminal and enter the lines "pip install pyqrcode" and "pip install pypng". After this is complete, the user should save the file to an area of their local machine of their choice. Remember this location because this is where the QR code will be generated. Once these are entered and installed, restart VS code. Once back inside of an IDE, you can locate the run function and run the code. The output should then appear in a terminal window. The QR code can be found and opened in the python file's saved location. Using your phone's camera, scan the QR code and learn some good password techniques!
 
 Sources
 
